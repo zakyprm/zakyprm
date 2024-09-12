@@ -1,6 +1,7 @@
 - Hi, I’m Zaky Permana Putra
 - I’m interested in technology
 - I’m currently learning Web Developer
+- I'm an undergrad informatics engineering at UHAMKA
 
 
 <!---
